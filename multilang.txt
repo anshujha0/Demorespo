@@ -1,4 +1,4 @@
-languaes 
+
 English: Hello, world!
 中文: 你好，世界！
 Español: ¡Hola, mundo!
